@@ -1,0 +1,26 @@
+.bgcolor{
+    background: linear-gradient(blue,pink);
+    background-size: contain;
+    height:100vh;
+
+}
+.box{
+    box-shadow: 3px 5px 10px 10px black;
+}
+.backimg{
+    background:url(bgimg.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:91vh;
+}
+.bgimghome{
+    background: url(img.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:92vh;
+}
+.link:hover{
+    border-bottom: 3px solid blue;
+    
+    
+}
